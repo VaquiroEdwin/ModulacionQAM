@@ -33,15 +33,6 @@ namespace ModulacionAudioVideo
         protected global::System.Web.UI.WebControls.DropDownList txtTipoQam;
 
         /// <summary>
-        /// Control BtnModularArchivo.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnModularArchivo;
-
-        /// <summary>
         /// Control BtnModular.
         /// </summary>
         /// <remarks>
@@ -67,14 +58,5 @@ namespace ModulacionAudioVideo
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
-
-        /// <summary>
-        /// Control BtnDemodular.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnDemodular;
     }
 }

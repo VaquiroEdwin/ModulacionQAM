@@ -43,7 +43,7 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12 text-center">
-                        <asp:Button runat="server" ID="BtnModularArchivo" Text="Obtener Archivo Modulado" CssClass="btn btn-success" OnClick="BtnModularArchivo_Click" />
+                        <%--<asp:Button runat="server" ID="BtnModularArchivo" Text="Obtener Archivo Modulado" CssClass="btn btn-success" OnClick="BtnModularArchivo_Click" />--%>
 
                         <asp:Button runat="server" ID="BtnModular" Text="Modular Archivo" CssClass="btn btn-success" OnClick="BtnModular_Click" />
                     </div>
@@ -80,7 +80,7 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12 text-center">
-                        <asp:Button runat="server" ID="BtnDemodular" Text="Demodular Archivo" CssClass="btn btn-success" OnClick="BtnDemodular_Click" />
+                        <%--<asp:Button runat="server" ID="BtnDemodular" Text="Demodular Archivo" CssClass="btn btn-success" OnClick="BtnDemodular_Click" />--%>
                     </div>
                 </div>
             </section>
